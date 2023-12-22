@@ -1,0 +1,6 @@
+module Pods_spectrumApp_spectrumAppTests {
+  umbrella header "Pods-spectrumApp-spectrumAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

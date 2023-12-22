@@ -1,0 +1,25 @@
+{
+  "name": "RNReactNativeABeep",
+  "version": "1.0.4",
+  "summary": "Play system sounds",
+  "description": "RNReactNativeABeep",
+  "homepage": "https://github.com/trietho/react-native-a-beep.git",
+  "license": "FREE",
+  "authors": {
+    "author": "trietho@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/trietho/react-native-a-beep.git",
+    "tag": "master"
+  },
+  "source_files": "**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

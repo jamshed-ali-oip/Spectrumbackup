@@ -1,0 +1,10 @@
+export const themeDarkBlue = '#010F30';
+export const themeBlue = '#042145';
+export const themeFerozi = '#1AD7CE';
+export const themeLightBlue = '#0CA6FF';
+export const themePurple = '#704FA6';
+export const themeLightPurple = '#6592CD';
+export const themeYellow = '#E3C445';
+export const themePink = '#E5306D';
+export const themeRed = '#D91F43';
+export const themeGreen = '#00C65A';
